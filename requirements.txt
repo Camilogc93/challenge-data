@@ -1,0 +1,5 @@
+# FastAPI Requirements
+fastapi
+uvicorn[standard]
+pycaret
+aporia
